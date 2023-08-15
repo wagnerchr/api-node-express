@@ -18,7 +18,7 @@
     "express",
     "restfull"
   ],
-  "author": "Renan Cavichi",
+  "author": "Wagner Christos",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.1"
